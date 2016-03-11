@@ -3,12 +3,12 @@
           <article>
             <h4>Find us</h4>
             <address>
-              ByteBubble Inc.<br>
+              ByteBubble Ltd<br>
               Canary Wharf<br>
               London
             </address><br>
 
-            <a href="">T: 0207 123 4567</a><br>
+            <a href="tel: 07961916342">T: +44 (0)20 7510 7362</a><br>
             <a href="mailto:info@bytebubble.co.uk?Subject=Hello">E: info@bytebubble.co.uk</a>
           </article>
           <article>
@@ -17,7 +17,7 @@
               <li><a href="/about">About</a></li>
               <li><a href="/services">Services</a></li>
               <li><a href="/projects">Projects</a></li>
-              <li><a href="/contant">Contact</a></li>
+              <li><a href="/contact">Contact</a></li>
               <li><a href="/blog">Blog</a></li>
             </ul>
           </article>
@@ -33,7 +33,7 @@
             </ul>
           </article>
           <article>
-            <a href="index.html"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/logo_letters.svg" alt=""></a>
+            <a href="<?php echo esc_url( home_url() ) ?>"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/logo_letters.svg" alt=""></a>
           </article>
         </footer>
       </div>
