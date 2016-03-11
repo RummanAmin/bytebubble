@@ -69,7 +69,7 @@
           <p><strong>Jeroen Visser & Miles Cheetham</strong> <br> Directors, CX NPD</p></blockquote>
         </article>
         <article class="panel">
-          <blockquote>"Being able to provide our students a single location to learn and communiate has been essential for us and the local community."
+          <blockquote>"Providing students with a single location to learn and communicate has been essential for us and the local community."
           <p><strong>Shaharul Alom</strong> <br> Project Co-ordinator, Stepney Community Trust</p></blockquote>
         </article>
         <article class="panel">
