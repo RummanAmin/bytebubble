@@ -26,7 +26,7 @@
       <article>
         <h3>Rahima Choudhury</h3>
         <h5>Account Manager</h5>
-        <p>Rahima has a deep understanding of the brand development process. She is the invaluable bridge between the client and the factories our creatives.</p>
+        <p>Rahima has a deep understanding of the brand development process. She is the invaluable bridge between the client and our creatives.</p>
       </article>
       <article>
         <h3>Obeyedur Rahman</h3>
@@ -69,15 +69,15 @@
           <p><strong>Jeroen Visser & Miles Cheetham</strong> <br> Directors, CX NPD</p></blockquote>
         </article>
         <article class="panel">
-          <blockquote>"Being able to provide our students a single location to learn and communiate has been essential for our impact in the community."
-          <p><strong>Shaharul Alom</strong> <br> Project Co-ordiinator, Stepney Community Trust</p></blockquote>
+          <blockquote>"Being able to provide our students a single location to learn and communiate has been essential for us and the local community."
+          <p><strong>Shaharul Alom</strong> <br> Project Co-ordinator, Stepney Community Trust</p></blockquote>
         </article>
         <article class="panel">
-          <blockquote>"This was the first site the new ByteBubble tean produced and I absolutely love it!. It's easy to update and is like an online CV"
+          <blockquote>"This was the first site the new Bytebubble team produced and I absolutely love it! It's easy to update and is like an online CV"
           <p><strong>Rumman Amin</strong> <br> Digital Project Manager, Pearson UK</p></blockquote>
         </article>
         <article class="panel">
-          <blockquote>"The new site not only looks esthatically pleasing but also helped the turnaround between my clients and myself."
+          <blockquote>"The new site not only looks aesthetically pleasing but also reduced the turnaround time between myself and the client."
           <p><strong>Rukon Miah</strong> <br> Photographer, Rukon Images</p></blockquote>
         </article>
       </div>
