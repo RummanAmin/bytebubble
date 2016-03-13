@@ -24,7 +24,7 @@
       <article>
         <img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/browser.svg" alt="">
         <h3>Web design</h3>
-        <p>Our bread and butter. Tell us your ideas and we'll transform them in to an beautiful, engaging and reliable website.</p>
+        <p>Our bread and butter. Tell us your ideas and we'll transform them into a beautiful, engaging and reliable website.</p>
       </article>
       <article>
         <img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/adjustments.svg" alt="">

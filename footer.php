@@ -24,8 +24,8 @@
           <article>
             <h4>Lets talk</h4>
             <ul>
+              <li><a href="https://www.instagram.com/bytebubble">Instagram</a></li>
               <li><a href="https://www.twitter.com/byte_bubble">Twitter</a></li>
-              <li><a href="https://www.instagram.com/bytebubble">Instagram </a></li>
               <li><a href="https://www.facebook.com/bytebubble">Facebook</a></li>
               <li><a href="https://plus.google.com/103433790910722848431">Google+</a></li>
               <li><a href="https://bytebubble.tumblr.com/">Tumblr</a></li>
