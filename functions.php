@@ -4,8 +4,6 @@
 	remove_action('wp_head', 'wp_generator');
 
 	add_theme_support( "title-tag" );
-	// add_theme_support( "custom-header", $args );
-	// add_theme_support( "custom-background", $args );
 	add_editor_style();
 
 	/*
@@ -18,9 +16,6 @@
 
 	// Add default posts and comments RSS feed links to head.
 	add_theme_support( 'automatic-feed-links' );
-
-	// Remove Blockquote P
-	// remove_filter('the_content', 'wpautop');
 
   // Add Main Menu
 	add_theme_support( 'menus' );
@@ -69,20 +64,7 @@
 
 	// Featured Image
 	add_theme_support( 'post-thumbnails' ); 
-	set_post_thumbnail_size( 960, 400, array('top', 'center') ); // 50 pixels wide by 50 pixels tall, crop mode
-	// add_filter( 'post_thumbnail_html', 'remove_thumbnail_dimensions', 10, 3 );
-
-	// function remove_thumbnail_dimensions( $html, $post_id, $post_image_id ) {
-	//     $html = preg_replace( '/(width|height)=\"\d*\"\s/', "", $html );
-	//     return $html;
-	// }
-
-	// Excerpt Length
-	// function custom_excerpt_length( $length ) {
-	// 	return 25;
-	// }
-	// add_filter( 'excerpt_length', 'custom_excerpt_length', 999 );
-
+	
 	// Register widget area
 	function bytebubble_widgets_init() {
 		register_sidebar( array(

@@ -10,7 +10,7 @@
     <section class="layout">
       <article>
         <h3>Design</h3>
-        <p>Whether it's branding, print, UI + UX we've got you covered. We strive to figure out the right solutions for your look to stand out amongst the rest.</p>
+        <p>Whether it's branding, print or UI + UX we've got you covered. We strive to figure out the right solutions for your look to stand out amongst the rest.</p>
       </article>
       <article>
         <h3>Development</h3>

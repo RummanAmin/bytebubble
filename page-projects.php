@@ -14,17 +14,14 @@
           while ($query->have_posts()) : $query->the_post();
         ?>
           <li>
-            <article>
-              <h3 class="post-title"><?php the_title(); ?></h3>
-              <h5><?php the_tags(' '); ?></h5>
-              <p><?php the_field('introduction'); ?></p>
-              <a href="<?php the_permalink(); ?>" class="button">Read more</a>
-            </article>
-            <article>
-              <a href="<?php the_permalink(); ?>">
-                <?php the_post_thumbnail(); ?>
-              </a>
-            </article>
+            <div class="blog_item">
+              <a class="full_link" href="<?php the_permalink(); ?>"></a>
+              <div class="abs_bg"><?php the_post_thumbnail(); ?></div>
+              <div class="blog_item_inner">
+                <h3 class="post-title"><?php the_title(); ?></h3>
+                <h5><?php the_tags(' '); ?></h5>
+              </div>
+            </div>
           </li>
         <?php endwhile; wp_reset_postdata(); ?>
       </ul>

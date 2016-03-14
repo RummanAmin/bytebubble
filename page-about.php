@@ -11,7 +11,7 @@
       <article>
         <h3>Stuart White</h3>
         <h5>Marketing Executive</h5>
-        <p>Stuart is engrossed with all things digital. Whether it is content marketing, social media, SEO, or Display advertising, he has a keen eye on capitalising on marketing ventures for our clients.</p>
+        <p>Stuart is engrossed with all things digital. Whether it is content marketing, social media, SEO or Display advertising. He has a keen eye on capitalising on marketing ventures for our clients.</p>
       </article>
       <article>
         <h3>Rumman Amin</h3>
@@ -29,14 +29,14 @@
         <p>Rahima has a deep understanding of the brand development process. She is the invaluable bridge between the client and our creatives.</p>
       </article>
       <article>
-        <h3>Obeyedur Rahman</h3>
+        <h3>Obyedur Rahman</h3>
         <h5>Account Manager</h5>
-        <p>A certified accountant with years of experience in the corporate environment, Obi is our first port of call for all new projects and long-term partnerships.</p>
+        <p>A chartered accountant with years of experience in the corporate environment, Obi is our first port of call for all new projects and long-term partnerships.</p>
       </article>
       <article>
         <h3>Kwame Wallace</h3>
         <h5>Senior Developer</h5>
-        <p>Kwame has many years’ experiences as a developer and loves to try out the latest technologies – which makes him ideally placed to decide precisely which we use for our clients’ projects.</p>
+        <p>Kwame has many years experiences as a developer and loves to try out the latest technologies – which makes him ideally placed to decide precisely what technology we use for our clients’ projects.</p>
       </article>
       <article>
         <h3>Faz Ahmed</h3>
@@ -46,7 +46,7 @@
       <article>
         <h3>Tasnim Shofique</h3>
         <h5>Designer</h5>
-        <p>Tasnim left the world of Law to pursue her love of technology. She quickly developed a passion for design and front-end development which has never left her, and now acts as our master of all things WordPress.</p>
+        <p>Tasnim left the world of Law to pursue her love of pixels. She quickly developed a passion for design which has never left her and now acts as our master of all things Adobe.</p>
       </article>
       <article>
         <h3>Hayley Williams</h3>
