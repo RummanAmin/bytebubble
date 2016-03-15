@@ -40,12 +40,19 @@
             ?>
 
             <div class="menu-social">
-              <h5>Get in touch</h5>
+              <hr>
+              <ul class="contact-info">
+                <li>
+                  <a href="tel: 07961916342">T: +44 (0)20 7510 7362</a>
+                </li>
+                <li>
+                  <a href="mailto:info@bytebubble.co.uk?Subject=Hello">E: info@bytebubble.co.uk</a>
+                </li>
+              </ul>
               <ul>
                 <li><a href="https://www.twitter.com/byte_bubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/twitter.svg"></a></li>          
                 <li><a href="https://www.instagram.com/bytebubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/instagram.svg"></a></li>          
-                <li><a href="https://www.facebook.com/bytebubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/facebook.svg"></a></li>          
-                <li><a href="mailto:info@bytebubble.co.uk?Subject=Hello"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/email.svg"></a> </li>
+                <li><a href="https://www.facebook.com/bytebubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/facebook.svg"></a></li>
               </ul>
             </div>
           </nav>
