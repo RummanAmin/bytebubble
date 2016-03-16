@@ -16,7 +16,6 @@
         <h2><?php the_field('introduction'); ?></h2>
       </article>
       <article class="panel">
-        <!-- <p><?php the_field('overview'); ?></p> -->
         <h5>Key Information:</h5>
         <ul>
           <li>Date: <?php the_date(); ?></li>
@@ -31,10 +30,14 @@
     
   <div class="band main">
     <section class="layout">
-      <article class="post-content">
-        
+      <article class="project-overview">
+        <div>
+          <article><?php the_post_thumbnail(); ?></article>
+          <article><?php the_field('overview'); ?></article>
+        </div>
+      </article>
+      <article class="project-content">
         <?php the_content(); ?>
-        
       </article>
     </section>
   </div>
