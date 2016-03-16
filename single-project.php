@@ -32,7 +32,7 @@
   <div class="band main">
     <section class="layout">
       <article class="project-overview">
-        <div class="move-right">
+        <div>
           <article><?php the_post_thumbnail(); ?></article>
           <article><?php the_field('overview'); ?></article>
         </div>
