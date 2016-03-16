@@ -31,10 +31,14 @@
     
   <div class="band main">
     <section class="layout">
-      <article class="post-content">
-        
+      <article class="project-overview">
+        <div class="move-right">
+          <article><?php the_post_thumbnail(); ?></article>
+          <article><?php the_field('overview'); ?></article>
+        </div>
+      </article>
+      <article class="project-content">
         <?php the_content(); ?>
-        
       </article>
     </section>
   </div>
