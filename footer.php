@@ -5,7 +5,6 @@
               <li class="active" rel="tab1"><h4>Find us</h4></li>
               <li rel="tab2"><h4>Explore</h4></li>
               <li rel="tab3"><h4>Lets talk</h4></li>
-              <!-- <li rel="tab4">Tab 4</li> -->
             </ul>
             <div class="tab_container">
               <h4 class="d_active tab_drawer_heading" rel="tab1">Find us</h4>
@@ -43,11 +42,6 @@
                 </ul>
               </div>
               <!-- #tab3 -->
-              <!-- <h4 class="tab_drawer_heading" rel="tab4">Tab 4</h4>
-              <div id="tab4" class="tab_content">
-                <a href="<?php echo esc_url( home_url() ) ?>"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/logo_letters.svg" alt=""></a>
-              </div> -->
-              <!-- #tab4 --> 
             </div>
           </article>
           <article>
