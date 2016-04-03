@@ -65,16 +65,16 @@
       <h2>Testimonials</h2>
       <div>
         <article class="panel">
-          <blockquote>"Our new website looks fantastic and we're very impressed with the work you have done"
-          <p><strong>Jeroen Visser & Miles Cheetham</strong> <br> Directors, CX NPD</p></blockquote>
+          <blockquote>"Transitioning from a legacy website is incredibly complex, but the Bytebubble team managed our project really well"
+          <p><strong>Alan Green</strong> <br> Director, Alan, Perry & Browns LLP</p></blockquote>
         </article>
         <article class="panel">
           <blockquote>"Providing students with a single location to learn and communicate has been essential for us and the local community."
           <p><strong>Shaharul Alom</strong> <br> Project Co-ordinator, Stepney Community Trust</p></blockquote>
         </article>
         <article class="panel">
-          <blockquote>"This was the first site the new Bytebubble team produced and I absolutely love it! It's easy to update and is like an online CV"
-          <p><strong>Rumman Amin</strong> <br> Digital Project Manager, Pearson UK</p></blockquote>
+          <blockquote>"Bytebubble built my new site with incredible efficiency. It's easy to update, easy to navigate and looks amazing"
+          <p><strong>Anna Wellington</strong> <br> Digital Project Manager, Pearson UK</p></blockquote>
         </article>
         <article class="panel">
           <blockquote>"The new site not only looks aesthetically pleasing but also reduced the turnaround time between myself and the client."
