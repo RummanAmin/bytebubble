@@ -14,8 +14,6 @@
           <li><?php the_tags(); ?></li>
         </ul>
       </article>
-      <article>
-      </article>
     </section>
   </div>
     

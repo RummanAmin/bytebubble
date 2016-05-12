@@ -4,7 +4,7 @@
     <section class="layout">
       <article>
         <h1>Blog</h1>
-        <h2>We hope you enjoy reading our posts as much as we enjoy writing them. We cover everything from the Web to Project Management and some random things in between.</h2>
+        <h2>We hope you enjoy reading our posts as much as we enjoy writing them. We cover topics such as Project Management, Design, Development and Marketing.</h2>
       </article>
     </section>
   </div>
