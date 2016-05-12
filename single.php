@@ -2,27 +2,19 @@
 
 <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 
-  <div class="band heading">
-    <section class="layout">
-      <div class="title">
-        <h1><?php the_title(); ?></h1>
-      </div>
-    </section>
-  </div>
-
   <div class="band intro">
     <section class="layout">
       <article>
+        <h1><?php the_title(); ?></h1>
         <h2><?php the_field('introduction'); ?></h2>
-      </article>
-      <article class="panel">
-        <!-- <p><?php the_field('overview'); ?></p> -->
-        <h5>Key Information:</h5>
+        <hr>
         <ul>
           <li>Date: <?php the_date(); ?></li>
           <li>Category: <?php the_category(', '); ?></li>
           <li><?php the_tags(); ?></li>
         </ul>
+      </article>
+      <article>
       </article>
     </section>
   </div>
