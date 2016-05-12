@@ -1,52 +1,24 @@
       <div class="band bottom">
         <footer class="layout">
-          <article>
-            <ul class="tabs">
-              <li class="active" rel="tab1"><h4>Find us</h4></li>
-              <li rel="tab2"><h4>Explore</h4></li>
-              <li rel="tab3"><h4>Lets talk</h4></li>
+          <a href="<?php echo esc_url( home_url() ) ?>"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/logo_letters.svg" alt="bytebubble"></a>
+
+          <a href="tel:07961916342" target="_self">+44 (0)02 7510 7362</a><br>
+          <a href="mailto:info@bytebubble.co.uk?Subject=Hello">info@bytebubble.co.uk</a>
+
+          <div class="social-links">
+            <ul>
+              <li><a href="https://www.instagram.com/bytebubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/instagram.svg" alt="bytebubble"></a></li>
+              <li><a href="https://www.twitter.com/byte_bubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/twitter.svg" alt="bytebubble"></a></li>
+              <li><a href="https://www.facebook.com/bytebubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/facebook.svg" alt="bytebubble"></a></li>
+              <li><a href="https://plus.google.com/103433790910722848431"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/google.svg" alt="bytebubble"></a></li>
+              <li><a href="https://bytebubble.tumblr.com/"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/tumblr.svg" alt="bytebubble"></a></li>
+              <li><a href="https://www.linkedin.com/company/bytebubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/linkedin.svg" alt="bytebubble"></a></li>
             </ul>
-            <div class="tab_container">
-              <h4 class="d_active tab_drawer_heading" rel="tab1">Find us</h4>
-              <div id="tab1" class="tab_content">
-                <address>
-                  ByteBubble Ltd<br>
-                  Canary Wharf<br>
-                  London
-                </address><br>
-                    
-                <a href="tel: 07961916342">T: +44 (0)20 7510 7362</a><br>
-                <a href="mailto:info@bytebubble.co.uk?Subject=Hello">E: info@bytebubble.co.uk</a>
-              </div>
-              <!-- #tab1 -->
-              <h4 class="tab_drawer_heading" rel="tab2">Explore</h4>
-              <div id="tab2" class="tab_content">
-                <ul>
-                  <li><a href="/about">About</a></li>
-                  <li><a href="/services">Services</a></li>
-                  <li><a href="/projects">Projects</a></li>
-                  <li><a href="/contact">Contact</a></li>
-                  <li><a href="/blog">Blog</a></li>
-                </ul>
-              </div>
-              <!-- #tab2 -->
-              <h4 class="tab_drawer_heading" rel="tab3">Lets talk</h4>
-              <div id="tab3" class="tab_content">
-                <ul>
-                  <li><a href="https://www.instagram.com/bytebubble">Instagram</a></li>
-                  <li><a href="https://www.twitter.com/byte_bubble">Twitter</a></li>
-                  <li><a href="https://www.facebook.com/bytebubble">Facebook</a></li>
-                  <li><a href="https://plus.google.com/103433790910722848431">Google+</a></li>
-                  <li><a href="https://bytebubble.tumblr.com/">Tumblr</a></li>
-                  <li><a href="https://www.linkedin.com/company/bytebubble">LinkedIn</a></li>
-                </ul>
-              </div>
-              <!-- #tab3 -->
-            </div>
-          </article>
-          <article>
-            <a href="<?php echo esc_url( home_url() ) ?>"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/logo_letters.svg" alt=""></a>
-          </article>
+          </div>
+
+          <small class="copyright">
+            <p>Copyright &copy; <?php echo date("Y") ?> <a href="<?php echo esc_url( home_url() ) ?>">Bytebubble.</a> All Rights Reserved.</p>
+          </small>
         </footer>
       </div>
         
