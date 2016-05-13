@@ -48,10 +48,10 @@
                   <a href="mailto:info@bytebubble.co.uk?Subject=Hello">E: info@bytebubble.co.uk</a>
                 </li>
               </ul>
-              <ul>
-                <li><a href="https://www.twitter.com/byte_bubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/twitter.svg"></a></li>          
-                <li><a href="https://www.instagram.com/bytebubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/instagram.svg"></a></li>          
-                <li><a href="https://www.facebook.com/bytebubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/facebook.svg"></a></li>
+              <ul>          
+                <li><a href="https://www.instagram.com/bytebubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/instagram-white.svg"></a></li>  
+                <li><a href="https://www.twitter.com/byte_bubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/twitter-white.svg"></a></li>        
+                <li><a href="https://www.facebook.com/bytebubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/facebook-white.svg"></a></li>
               </ul>
             </div>
           </nav>
