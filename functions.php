@@ -64,7 +64,8 @@
 
 	// Featured Image
 	add_theme_support( 'post-thumbnails' ); 
-	
+	add_image_size( 'category-thumb', 684, 552, true );
+
 	// Register widget area
 	function bytebubble_widgets_init() {
 		register_sidebar( array(

@@ -54,7 +54,7 @@
         <?php while ($the_query -> have_posts()) : $the_query -> the_post(); ?>
           <article class="photo-list">
             <a href="<?php the_permalink(); ?>">
-              <?php the_post_thumbnail('large');?> 
+              <?php the_post_thumbnail('category-thumb');?> 
               <span class="photo-list-main">         
               <h3 class="post-title"><?php the_title(); ?></h3>
               <h5><?php the_date(); ?></h5>
