@@ -2,7 +2,7 @@
         <footer class="layout">
           <a href="<?php echo esc_url( home_url() ) ?>"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/logo_letters.svg" alt="bytebubble"></a>
 
-          <a href="tel:07961916342" target="_self">+44 (0)02 7510 7362</a><br>
+          <a href="tel:07961916342" target="_self">+44 (0)20 7510 7362</a><br>
           <a href="mailto:info@bytebubble.co.uk?Subject=Hello">info@bytebubble.co.uk</a>
 
           <div class="social-links">
