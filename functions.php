@@ -66,6 +66,12 @@
 	add_theme_support( 'post-thumbnails' ); 
 	add_image_size( 'category-thumb', 684, 552, true );
 
+	// Add class to Post Images
+	function my_content_filter($content) {
+    return preg_replace('|<p>(<img[^<]*)</p>|i', '<p class="foo">${1}</p>', $content);
+	}
+	add_filter('the_content', 'my_content_filter');
+
 	// Register widget area
 	function bytebubble_widgets_init() {
 		register_sidebar( array(

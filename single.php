@@ -19,10 +19,11 @@
     
   <div class="band main">
     <section class="layout">
+      <?php if ( has_post_thumbnail() ) : ?>
+        <?php the_post_thumbnail(); ?>
+      <?php endif; ?>
       <article class="post-content">
-        
         <?php the_content(); ?>
-        
       </article>
     </section>
   </div>
