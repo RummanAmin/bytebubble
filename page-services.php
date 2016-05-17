@@ -53,7 +53,7 @@
 
   <div class="band extra">
     <section class="layout">
-      <h3>Our process</h3>
+      <h3>Our process</h3><br>
       <div>
         <article>
           <h4>Discover</h4>

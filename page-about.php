@@ -62,7 +62,7 @@
 
   <div class="band extra">
     <section class="layout">
-      <h2>Testimonials</h2>
+      <h2>Testimonials</h2><br>
       <div>
         <article class="panel">
           <blockquote>"Transitioning from a legacy website is incredibly complex, but the Bytebubble team managed our project really well"
