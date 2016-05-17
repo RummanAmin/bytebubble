@@ -49,10 +49,10 @@
                   <a href="mailto:info@bytebubble.co.uk?Subject=Hello">E: info@bytebubble.co.uk</a>
                 </li>
               </ul>
-              <ul>
-                <li><a href="https://www.twitter.com/byte_bubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/twitter.svg"></a></li>          
-                <li><a href="https://www.instagram.com/bytebubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/instagram.svg"></a></li>          
-                <li><a href="https://www.facebook.com/bytebubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/facebook.svg"></a></li>
+              <ul>          
+                <li><a href="https://www.instagram.com/bytebubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/instagram-white.svg"></a></li>  
+                <li><a href="https://www.twitter.com/byte_bubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/twitter-white.svg"></a></li>        
+                <li><a href="https://www.facebook.com/bytebubble"><img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/icons/facebook-white.svg"></a></li>
               </ul>
             </div>
           </nav>
@@ -63,7 +63,7 @@
           <h1><?php the_title(); ?></h1>
           <h2><?php the_field('introduction'); ?></h2>
           <div class="download">
-            <a href="http://www.bytebubble.co.uk/wp-content/uploads/2016/03/Project-Starter-Pack.zip" class="button">Download</a>
+            <a href="http://ul.to/z36bgxu5" class="button">Download</a>
             <a href="http://twitter.com/share?text=<?php echo urlencode(the_title()); ?>&url=<?php echo urlencode(the_permalink()); ?>&via=byte_bubble; ?>" title="Share on Twitter" rel="nofollow" target="_blank" class="button">Share</a>
           </div>
         </article>
@@ -111,7 +111,7 @@
             <li>&rsaquo; Invoice</li>
           </ul>
           <div class="download">
-            <a href="http://www.bytebubble.co.uk/wp-content/uploads/2016/03/Project-Starter-Pack.zip" class="button">Download</a>
+            <a href="http://ul.to/z36bgxu5" class="button">Download</a>
             <a href="http://twitter.com/share?text=<?php echo urlencode(the_title()); ?>&url=<?php echo urlencode(the_permalink()); ?>&via=byte_bubble; ?>" title="Share on Twitter" rel="nofollow" target="_blank" class="button">Share</a>
           </div>
         </article>
@@ -141,7 +141,7 @@
             </div>
             <div class="download">
               <p>We'd really appriciate it if you could share this pack with your friends online.</p>  
-              <a href="http://www.bytebubble.co.uk/wp-content/uploads/2016/03/Project-Starter-Pack.zip" class="button">Download</a>
+              <a href="http://ul.to/z36bgxu5" class="button">Download</a>
               <a href="http://twitter.com/share?text=<?php echo urlencode(the_title()); ?>&url=<?php echo urlencode(the_permalink()); ?>&via=byte_bubble; ?>" title="Share on Twitter" rel="nofollow" target="_blank" class="button">Share</a>
             </div>
           </div>
