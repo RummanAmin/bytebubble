@@ -8,7 +8,7 @@
         <?php
           $args = array(
           'post_type' => 'project',
-          'posts_per_page' => 5
+          'posts_per_page' => 6
           );
           $query = new WP_Query( $args );
           while ($query->have_posts()) : $query->the_post();
